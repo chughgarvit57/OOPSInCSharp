@@ -1,0 +1,35 @@
+# Ignore Visual Studio specific files
+.vs/
+*.user
+*.suo
+*.cache
+*.sln.docstates
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore NuGet packages
+packages/
+
+# Ignore Rider IDE specific files
+.idea/
+*.sln.iml
+
+# Ignore JetBrains Rider workspace files
+*.sln.dotsettings
+
+# Ignore user-specific settings
+*.csproj.user
+
+# Ignore logs and debug files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore compiled code
+*.dll
+*.exe
+*.pdb
